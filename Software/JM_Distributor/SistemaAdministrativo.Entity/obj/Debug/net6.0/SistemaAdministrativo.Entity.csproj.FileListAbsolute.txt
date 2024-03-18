@@ -1,0 +1,84 @@
+C:\Users\loren\Desktop\Ingeniería de Software\TrabajoFinal\SolucionSistemaAdministrativo\SistemaAdministrativo.Entity\bin\Debug\net6.0\SistemaAdministrativo.Entity.deps.json
+C:\Users\loren\Desktop\Ingeniería de Software\TrabajoFinal\SolucionSistemaAdministrativo\SistemaAdministrativo.Entity\bin\Debug\net6.0\SistemaAdministrativo.Entity.runtimeconfig.json
+C:\Users\loren\Desktop\Ingeniería de Software\TrabajoFinal\SolucionSistemaAdministrativo\SistemaAdministrativo.Entity\bin\Debug\net6.0\SistemaAdministrativo.Entity.dll
+C:\Users\loren\Desktop\Ingeniería de Software\TrabajoFinal\SolucionSistemaAdministrativo\SistemaAdministrativo.Entity\bin\Debug\net6.0\SistemaAdministrativo.Entity.pdb
+C:\Users\loren\Desktop\Ingeniería de Software\TrabajoFinal\SolucionSistemaAdministrativo\SistemaAdministrativo.Entity\obj\Debug\net6.0\SistemaAdministrativo.Entity.csproj.AssemblyReference.cache
+C:\Users\loren\Desktop\Ingeniería de Software\TrabajoFinal\SolucionSistemaAdministrativo\SistemaAdministrativo.Entity\obj\Debug\net6.0\SistemaAdministrativo.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loren\Desktop\Ingeniería de Software\TrabajoFinal\SolucionSistemaAdministrativo\SistemaAdministrativo.Entity\obj\Debug\net6.0\SistemaAdministrativo.Entity.AssemblyInfoInputs.cache
+C:\Users\loren\Desktop\Ingeniería de Software\TrabajoFinal\SolucionSistemaAdministrativo\SistemaAdministrativo.Entity\obj\Debug\net6.0\SistemaAdministrativo.Entity.AssemblyInfo.cs
+C:\Users\loren\Desktop\Ingeniería de Software\TrabajoFinal\SolucionSistemaAdministrativo\SistemaAdministrativo.Entity\obj\Debug\net6.0\SistemaAdministrativo.Entity.csproj.CoreCompileInputs.cache
+C:\Users\loren\Desktop\Ingeniería de Software\TrabajoFinal\SolucionSistemaAdministrativo\SistemaAdministrativo.Entity\obj\Debug\net6.0\SistemaAdministrativo.Entity.dll
+C:\Users\loren\Desktop\Ingeniería de Software\TrabajoFinal\SolucionSistemaAdministrativo\SistemaAdministrativo.Entity\obj\Debug\net6.0\refint\SistemaAdministrativo.Entity.dll
+C:\Users\loren\Desktop\Ingeniería de Software\TrabajoFinal\SolucionSistemaAdministrativo\SistemaAdministrativo.Entity\obj\Debug\net6.0\SistemaAdministrativo.Entity.pdb
+C:\Users\loren\Desktop\Ingeniería de Software\TrabajoFinal\SolucionSistemaAdministrativo\SistemaAdministrativo.Entity\obj\Debug\net6.0\SistemaAdministrativo.Entity.genruntimeconfig.cache
+C:\Users\loren\Desktop\Ingeniería de Software\TrabajoFinal\SolucionSistemaAdministrativo\SistemaAdministrativo.Entity\obj\Debug\net6.0\ref\SistemaAdministrativo.Entity.dll
+C:\Users\JuanitaMosqueraSanto\Downloads\Sistema-Venta-main\SistemaAdministrativo.Entity\bin\Debug\net6.0\SistemaAdministrativo.Entity.deps.json
+C:\Users\JuanitaMosqueraSanto\Downloads\Sistema-Venta-main\SistemaAdministrativo.Entity\bin\Debug\net6.0\SistemaAdministrativo.Entity.runtimeconfig.json
+C:\Users\JuanitaMosqueraSanto\Downloads\Sistema-Venta-main\SistemaAdministrativo.Entity\bin\Debug\net6.0\SistemaAdministrativo.Entity.dll
+C:\Users\JuanitaMosqueraSanto\Downloads\Sistema-Venta-main\SistemaAdministrativo.Entity\bin\Debug\net6.0\SistemaAdministrativo.Entity.pdb
+C:\Users\JuanitaMosqueraSanto\Downloads\Sistema-Venta-main\SistemaAdministrativo.Entity\obj\Debug\net6.0\SistemaAdministrativo.Entity.csproj.AssemblyReference.cache
+C:\Users\JuanitaMosqueraSanto\Downloads\Sistema-Venta-main\SistemaAdministrativo.Entity\obj\Debug\net6.0\SistemaAdministrativo.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JuanitaMosqueraSanto\Downloads\Sistema-Venta-main\SistemaAdministrativo.Entity\obj\Debug\net6.0\SistemaAdministrativo.Entity.AssemblyInfoInputs.cache
+C:\Users\JuanitaMosqueraSanto\Downloads\Sistema-Venta-main\SistemaAdministrativo.Entity\obj\Debug\net6.0\SistemaAdministrativo.Entity.AssemblyInfo.cs
+C:\Users\JuanitaMosqueraSanto\Downloads\Sistema-Venta-main\SistemaAdministrativo.Entity\obj\Debug\net6.0\SistemaAdministrativo.Entity.csproj.CoreCompileInputs.cache
+C:\Users\JuanitaMosqueraSanto\Downloads\Sistema-Venta-main\SistemaAdministrativo.Entity\obj\Debug\net6.0\SistemaAdministrativo.Entity.dll
+C:\Users\JuanitaMosqueraSanto\Downloads\Sistema-Venta-main\SistemaAdministrativo.Entity\obj\Debug\net6.0\refint\SistemaAdministrativo.Entity.dll
+C:\Users\JuanitaMosqueraSanto\Downloads\Sistema-Venta-main\SistemaAdministrativo.Entity\obj\Debug\net6.0\SistemaAdministrativo.Entity.pdb
+C:\Users\JuanitaMosqueraSanto\Downloads\Sistema-Venta-main\SistemaAdministrativo.Entity\obj\Debug\net6.0\SistemaAdministrativo.Entity.genruntimeconfig.cache
+C:\Users\JuanitaMosqueraSanto\Downloads\Sistema-Venta-main\SistemaAdministrativo.Entity\obj\Debug\net6.0\ref\SistemaAdministrativo.Entity.dll
+D:\Nueva carpeta (3)\Sistema-Venta-main\Sistema-Venta-main\SistemaAdministrativo.Entity\bin\Debug\net6.0\SistemaAdministrativo.Entity.deps.json
+D:\Nueva carpeta (3)\Sistema-Venta-main\Sistema-Venta-main\SistemaAdministrativo.Entity\bin\Debug\net6.0\SistemaAdministrativo.Entity.runtimeconfig.json
+D:\Nueva carpeta (3)\Sistema-Venta-main\Sistema-Venta-main\SistemaAdministrativo.Entity\bin\Debug\net6.0\SistemaAdministrativo.Entity.dll
+D:\Nueva carpeta (3)\Sistema-Venta-main\Sistema-Venta-main\SistemaAdministrativo.Entity\bin\Debug\net6.0\SistemaAdministrativo.Entity.pdb
+D:\Nueva carpeta (3)\Sistema-Venta-main\Sistema-Venta-main\SistemaAdministrativo.Entity\obj\Debug\net6.0\SistemaAdministrativo.Entity.csproj.AssemblyReference.cache
+D:\Nueva carpeta (3)\Sistema-Venta-main\Sistema-Venta-main\SistemaAdministrativo.Entity\obj\Debug\net6.0\SistemaAdministrativo.Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nueva carpeta (3)\Sistema-Venta-main\Sistema-Venta-main\SistemaAdministrativo.Entity\obj\Debug\net6.0\SistemaAdministrativo.Entity.AssemblyInfoInputs.cache
+D:\Nueva carpeta (3)\Sistema-Venta-main\Sistema-Venta-main\SistemaAdministrativo.Entity\obj\Debug\net6.0\SistemaAdministrativo.Entity.AssemblyInfo.cs
+D:\Nueva carpeta (3)\Sistema-Venta-main\Sistema-Venta-main\SistemaAdministrativo.Entity\obj\Debug\net6.0\SistemaAdministrativo.Entity.csproj.CoreCompileInputs.cache
+D:\Nueva carpeta (3)\Sistema-Venta-main\Sistema-Venta-main\SistemaAdministrativo.Entity\obj\Debug\net6.0\SistemaAdministrativo.Entity.dll
+D:\Nueva carpeta (3)\Sistema-Venta-main\Sistema-Venta-main\SistemaAdministrativo.Entity\obj\Debug\net6.0\refint\SistemaAdministrativo.Entity.dll
+D:\Nueva carpeta (3)\Sistema-Venta-main\Sistema-Venta-main\SistemaAdministrativo.Entity\obj\Debug\net6.0\SistemaAdministrativo.Entity.pdb
+D:\Nueva carpeta (3)\Sistema-Venta-main\Sistema-Venta-main\SistemaAdministrativo.Entity\obj\Debug\net6.0\SistemaAdministrativo.Entity.genruntimeconfig.cache
+D:\Nueva carpeta (3)\Sistema-Venta-main\Sistema-Venta-main\SistemaAdministrativo.Entity\obj\Debug\net6.0\ref\SistemaAdministrativo.Entity.dll
+C:\Users\JuanitaMosqueraSanto\Desktop\Sistema-Venta-main\SistemaAdministrativo.Entity\bin\Debug\net6.0\SistemaAdministrativo.Entity.deps.json
+C:\Users\JuanitaMosqueraSanto\Desktop\Sistema-Venta-main\SistemaAdministrativo.Entity\bin\Debug\net6.0\SistemaAdministrativo.Entity.runtimeconfig.json
+C:\Users\JuanitaMosqueraSanto\Desktop\Sistema-Venta-main\SistemaAdministrativo.Entity\bin\Debug\net6.0\SistemaAdministrativo.Entity.dll
+C:\Users\JuanitaMosqueraSanto\Desktop\Sistema-Venta-main\SistemaAdministrativo.Entity\bin\Debug\net6.0\SistemaAdministrativo.Entity.pdb
+C:\Users\JuanitaMosqueraSanto\Desktop\Sistema-Venta-main\SistemaAdministrativo.Entity\obj\Debug\net6.0\SistemaAdministrativo.Entity.csproj.AssemblyReference.cache
+C:\Users\JuanitaMosqueraSanto\Desktop\Sistema-Venta-main\SistemaAdministrativo.Entity\obj\Debug\net6.0\SistemaAdministrativo.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JuanitaMosqueraSanto\Desktop\Sistema-Venta-main\SistemaAdministrativo.Entity\obj\Debug\net6.0\SistemaAdministrativo.Entity.AssemblyInfoInputs.cache
+C:\Users\JuanitaMosqueraSanto\Desktop\Sistema-Venta-main\SistemaAdministrativo.Entity\obj\Debug\net6.0\SistemaAdministrativo.Entity.AssemblyInfo.cs
+C:\Users\JuanitaMosqueraSanto\Desktop\Sistema-Venta-main\SistemaAdministrativo.Entity\obj\Debug\net6.0\SistemaAdministrativo.Entity.csproj.CoreCompileInputs.cache
+C:\Users\JuanitaMosqueraSanto\Desktop\Sistema-Venta-main\SistemaAdministrativo.Entity\obj\Debug\net6.0\SistemaAdministrativo.Entity.dll
+C:\Users\JuanitaMosqueraSanto\Desktop\Sistema-Venta-main\SistemaAdministrativo.Entity\obj\Debug\net6.0\refint\SistemaAdministrativo.Entity.dll
+C:\Users\JuanitaMosqueraSanto\Desktop\Sistema-Venta-main\SistemaAdministrativo.Entity\obj\Debug\net6.0\SistemaAdministrativo.Entity.pdb
+C:\Users\JuanitaMosqueraSanto\Desktop\Sistema-Venta-main\SistemaAdministrativo.Entity\obj\Debug\net6.0\SistemaAdministrativo.Entity.genruntimeconfig.cache
+C:\Users\JuanitaMosqueraSanto\Desktop\Sistema-Venta-main\SistemaAdministrativo.Entity\obj\Debug\net6.0\ref\SistemaAdministrativo.Entity.dll
+C:\Users\JuanitaMosqueraSanto\Downloads\JM_Distributor\SistemaAdministrativo.Entity\bin\Debug\net6.0\SistemaAdministrativo.Entity.deps.json
+C:\Users\JuanitaMosqueraSanto\Downloads\JM_Distributor\SistemaAdministrativo.Entity\bin\Debug\net6.0\SistemaAdministrativo.Entity.runtimeconfig.json
+C:\Users\JuanitaMosqueraSanto\Downloads\JM_Distributor\SistemaAdministrativo.Entity\bin\Debug\net6.0\SistemaAdministrativo.Entity.dll
+C:\Users\JuanitaMosqueraSanto\Downloads\JM_Distributor\SistemaAdministrativo.Entity\bin\Debug\net6.0\SistemaAdministrativo.Entity.pdb
+C:\Users\JuanitaMosqueraSanto\Downloads\JM_Distributor\SistemaAdministrativo.Entity\obj\Debug\net6.0\SistemaAdministrativo.Entity.csproj.AssemblyReference.cache
+C:\Users\JuanitaMosqueraSanto\Downloads\JM_Distributor\SistemaAdministrativo.Entity\obj\Debug\net6.0\SistemaAdministrativo.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JuanitaMosqueraSanto\Downloads\JM_Distributor\SistemaAdministrativo.Entity\obj\Debug\net6.0\SistemaAdministrativo.Entity.AssemblyInfoInputs.cache
+C:\Users\JuanitaMosqueraSanto\Downloads\JM_Distributor\SistemaAdministrativo.Entity\obj\Debug\net6.0\SistemaAdministrativo.Entity.AssemblyInfo.cs
+C:\Users\JuanitaMosqueraSanto\Downloads\JM_Distributor\SistemaAdministrativo.Entity\obj\Debug\net6.0\SistemaAdministrativo.Entity.csproj.CoreCompileInputs.cache
+C:\Users\JuanitaMosqueraSanto\Downloads\JM_Distributor\SistemaAdministrativo.Entity\obj\Debug\net6.0\SistemaAdministrativo.Entity.dll
+C:\Users\JuanitaMosqueraSanto\Downloads\JM_Distributor\SistemaAdministrativo.Entity\obj\Debug\net6.0\refint\SistemaAdministrativo.Entity.dll
+C:\Users\JuanitaMosqueraSanto\Downloads\JM_Distributor\SistemaAdministrativo.Entity\obj\Debug\net6.0\SistemaAdministrativo.Entity.pdb
+C:\Users\JuanitaMosqueraSanto\Downloads\JM_Distributor\SistemaAdministrativo.Entity\obj\Debug\net6.0\SistemaAdministrativo.Entity.genruntimeconfig.cache
+C:\Users\JuanitaMosqueraSanto\Downloads\JM_Distributor\SistemaAdministrativo.Entity\obj\Debug\net6.0\ref\SistemaAdministrativo.Entity.dll
+D:\Nueva carpeta (3)\JM_Distributor\JM_Distributor\SistemaAdministrativo.Entity\bin\Debug\net6.0\SistemaAdministrativo.Entity.deps.json
+D:\Nueva carpeta (3)\JM_Distributor\JM_Distributor\SistemaAdministrativo.Entity\bin\Debug\net6.0\SistemaAdministrativo.Entity.runtimeconfig.json
+D:\Nueva carpeta (3)\JM_Distributor\JM_Distributor\SistemaAdministrativo.Entity\bin\Debug\net6.0\SistemaAdministrativo.Entity.dll
+D:\Nueva carpeta (3)\JM_Distributor\JM_Distributor\SistemaAdministrativo.Entity\bin\Debug\net6.0\SistemaAdministrativo.Entity.pdb
+D:\Nueva carpeta (3)\JM_Distributor\JM_Distributor\SistemaAdministrativo.Entity\obj\Debug\net6.0\SistemaAdministrativo.Entity.csproj.AssemblyReference.cache
+D:\Nueva carpeta (3)\JM_Distributor\JM_Distributor\SistemaAdministrativo.Entity\obj\Debug\net6.0\SistemaAdministrativo.Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nueva carpeta (3)\JM_Distributor\JM_Distributor\SistemaAdministrativo.Entity\obj\Debug\net6.0\SistemaAdministrativo.Entity.AssemblyInfoInputs.cache
+D:\Nueva carpeta (3)\JM_Distributor\JM_Distributor\SistemaAdministrativo.Entity\obj\Debug\net6.0\SistemaAdministrativo.Entity.AssemblyInfo.cs
+D:\Nueva carpeta (3)\JM_Distributor\JM_Distributor\SistemaAdministrativo.Entity\obj\Debug\net6.0\SistemaAdministrativo.Entity.csproj.CoreCompileInputs.cache
+D:\Nueva carpeta (3)\JM_Distributor\JM_Distributor\SistemaAdministrativo.Entity\obj\Debug\net6.0\SistemaAdministrativo.Entity.dll
+D:\Nueva carpeta (3)\JM_Distributor\JM_Distributor\SistemaAdministrativo.Entity\obj\Debug\net6.0\refint\SistemaAdministrativo.Entity.dll
+D:\Nueva carpeta (3)\JM_Distributor\JM_Distributor\SistemaAdministrativo.Entity\obj\Debug\net6.0\SistemaAdministrativo.Entity.pdb
+D:\Nueva carpeta (3)\JM_Distributor\JM_Distributor\SistemaAdministrativo.Entity\obj\Debug\net6.0\SistemaAdministrativo.Entity.genruntimeconfig.cache
+D:\Nueva carpeta (3)\JM_Distributor\JM_Distributor\SistemaAdministrativo.Entity\obj\Debug\net6.0\ref\SistemaAdministrativo.Entity.dll

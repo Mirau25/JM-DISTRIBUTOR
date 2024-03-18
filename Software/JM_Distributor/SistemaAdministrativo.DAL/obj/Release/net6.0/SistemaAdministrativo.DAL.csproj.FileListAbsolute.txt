@@ -1,0 +1,32 @@
+C:\Users\JuanitaMosqueraSanto\Downloads\JM_Distributor\SistemaAdministrativo.DAL\bin\Release\net6.0\SistemaAdministrativo.DAL.deps.json
+C:\Users\JuanitaMosqueraSanto\Downloads\JM_Distributor\SistemaAdministrativo.DAL\bin\Release\net6.0\SistemaAdministrativo.DAL.dll
+C:\Users\JuanitaMosqueraSanto\Downloads\JM_Distributor\SistemaAdministrativo.DAL\bin\Release\net6.0\SistemaAdministrativo.DAL.pdb
+C:\Users\JuanitaMosqueraSanto\Downloads\JM_Distributor\SistemaAdministrativo.DAL\bin\Release\net6.0\SistemaAdministrativo.Entity.dll
+C:\Users\JuanitaMosqueraSanto\Downloads\JM_Distributor\SistemaAdministrativo.DAL\bin\Release\net6.0\SistemaAdministrativo.Entity.pdb
+C:\Users\JuanitaMosqueraSanto\Downloads\JM_Distributor\SistemaAdministrativo.DAL\obj\Release\net6.0\SistemaAdministrativo.DAL.csproj.AssemblyReference.cache
+C:\Users\JuanitaMosqueraSanto\Downloads\JM_Distributor\SistemaAdministrativo.DAL\obj\Release\net6.0\SistemaAdministrativo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JuanitaMosqueraSanto\Downloads\JM_Distributor\SistemaAdministrativo.DAL\obj\Release\net6.0\SistemaAdministrativo.DAL.AssemblyInfoInputs.cache
+C:\Users\JuanitaMosqueraSanto\Downloads\JM_Distributor\SistemaAdministrativo.DAL\obj\Release\net6.0\SistemaAdministrativo.DAL.AssemblyInfo.cs
+C:\Users\JuanitaMosqueraSanto\Downloads\JM_Distributor\SistemaAdministrativo.DAL\obj\Release\net6.0\SistemaAdministrativo.DAL.csproj.CoreCompileInputs.cache
+C:\Users\JuanitaMosqueraSanto\Downloads\JM_Distributor\SistemaAdministrativo.DAL\obj\Release\net6.0\SistemaAdministrativo.DAL.csproj.CopyComplete
+C:\Users\JuanitaMosqueraSanto\Downloads\JM_Distributor\SistemaAdministrativo.DAL\obj\Release\net6.0\SistemaAdministrativo.DAL.dll
+C:\Users\JuanitaMosqueraSanto\Downloads\JM_Distributor\SistemaAdministrativo.DAL\obj\Release\net6.0\refint\SistemaAdministrativo.DAL.dll
+C:\Users\JuanitaMosqueraSanto\Downloads\JM_Distributor\SistemaAdministrativo.DAL\obj\Release\net6.0\SistemaAdministrativo.DAL.pdb
+C:\Users\JuanitaMosqueraSanto\Downloads\JM_Distributor\SistemaAdministrativo.DAL\obj\Release\net6.0\ref\SistemaAdministrativo.DAL.dll
+D:\Nueva carpeta (3)\JM_Distributor\JM_Distributor\SistemaAdministrativo.DAL\bin\Release\net6.0\SistemaAdministrativo.DAL.deps.json
+D:\Nueva carpeta (3)\JM_Distributor\JM_Distributor\SistemaAdministrativo.DAL\bin\Release\net6.0\SistemaAdministrativo.DAL.runtimeconfig.json
+D:\Nueva carpeta (3)\JM_Distributor\JM_Distributor\SistemaAdministrativo.DAL\bin\Release\net6.0\SistemaAdministrativo.DAL.dll
+D:\Nueva carpeta (3)\JM_Distributor\JM_Distributor\SistemaAdministrativo.DAL\bin\Release\net6.0\SistemaAdministrativo.DAL.pdb
+D:\Nueva carpeta (3)\JM_Distributor\JM_Distributor\SistemaAdministrativo.DAL\bin\Release\net6.0\SistemaAdministrativo.Entity.dll
+D:\Nueva carpeta (3)\JM_Distributor\JM_Distributor\SistemaAdministrativo.DAL\bin\Release\net6.0\SistemaAdministrativo.Entity.pdb
+D:\Nueva carpeta (3)\JM_Distributor\JM_Distributor\SistemaAdministrativo.DAL\obj\Release\net6.0\SistemaAdministrativo.DAL.csproj.AssemblyReference.cache
+D:\Nueva carpeta (3)\JM_Distributor\JM_Distributor\SistemaAdministrativo.DAL\obj\Release\net6.0\SistemaAdministrativo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nueva carpeta (3)\JM_Distributor\JM_Distributor\SistemaAdministrativo.DAL\obj\Release\net6.0\SistemaAdministrativo.DAL.AssemblyInfoInputs.cache
+D:\Nueva carpeta (3)\JM_Distributor\JM_Distributor\SistemaAdministrativo.DAL\obj\Release\net6.0\SistemaAdministrativo.DAL.AssemblyInfo.cs
+D:\Nueva carpeta (3)\JM_Distributor\JM_Distributor\SistemaAdministrativo.DAL\obj\Release\net6.0\SistemaAdministrativo.DAL.csproj.CoreCompileInputs.cache
+D:\Nueva carpeta (3)\JM_Distributor\JM_Distributor\SistemaAdministrativo.DAL\obj\Release\net6.0\SistemaAdministrativo.DAL.csproj.CopyComplete
+D:\Nueva carpeta (3)\JM_Distributor\JM_Distributor\SistemaAdministrativo.DAL\obj\Release\net6.0\SistemaAdministrativo.DAL.dll
+D:\Nueva carpeta (3)\JM_Distributor\JM_Distributor\SistemaAdministrativo.DAL\obj\Release\net6.0\refint\SistemaAdministrativo.DAL.dll
+D:\Nueva carpeta (3)\JM_Distributor\JM_Distributor\SistemaAdministrativo.DAL\obj\Release\net6.0\SistemaAdministrativo.DAL.pdb
+D:\Nueva carpeta (3)\JM_Distributor\JM_Distributor\SistemaAdministrativo.DAL\obj\Release\net6.0\SistemaAdministrativo.DAL.genruntimeconfig.cache
+D:\Nueva carpeta (3)\JM_Distributor\JM_Distributor\SistemaAdministrativo.DAL\obj\Release\net6.0\ref\SistemaAdministrativo.DAL.dll

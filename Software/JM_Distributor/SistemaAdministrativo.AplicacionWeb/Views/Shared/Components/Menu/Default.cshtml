@@ -1,0 +1,40 @@
+﻿@using SistemaAdministrativo.AplicacionWeb.Models.ViewModels;
+@model List<VMMenu>;
+
+@{
+    string menucollapse = "menucollapse";
+    int correlativo = 1;
+}
+
+@foreach (var menu in Model)
+{
+    if (menu.SubMenus.Count == 0)
+    {
+        <li class="nav-item">
+            <a class="nav-link" href="@($"/{menu.Controlador}/{menu.PaginaAccion}")">
+                <span class="mr-2 d-none d-lg-inline text-gray-600 small">@menu.Descripcion</span>
+            </a>
+        </li>
+    }
+    else
+    {
+        <li class="nav-item dropdown no-arrow">
+            <a class="nav-link dropdown-toggle" href="#" id="@($"navbarDropdown{menu.Descripcion.Replace(" ", "")}")" role="button"
+               data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                <span class="mr-2 d-none d-lg-inline text-gray-600 small">@menu.Descripcion</span>
+            </a>
+
+            <div id="@($"{menucollapse}{correlativo}")" class="dropdown-menu dropdown-menu-right shadow animated--grow-in"
+                 aria-labelledby="@($"navbarDropdown{menu.Descripcion.Replace(" ", "")}")">
+                @foreach (var submenu in menu.SubMenus)
+                {
+                    <a class="dropdown-item" href="@($"/{submenu.Controlador}/{submenu.PaginaAccion}")">
+                        @submenu.Descripcion
+                    </a>
+                    <div class="dropdown-divider"></div>
+                }
+            </div>
+        </li>
+        correlativo++;
+    }
+}

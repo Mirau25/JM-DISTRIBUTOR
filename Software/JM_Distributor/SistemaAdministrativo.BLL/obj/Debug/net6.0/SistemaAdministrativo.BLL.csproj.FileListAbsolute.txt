@@ -1,0 +1,102 @@
+C:\Users\loren\Desktop\Ingeniería de Software\TrabajoFinal\SolucionSistemaAdministrativo\SistemaAdministrativo.BLL\bin\Debug\net6.0\SistemaAdministrativo.BLL.deps.json
+C:\Users\loren\Desktop\Ingeniería de Software\TrabajoFinal\SolucionSistemaAdministrativo\SistemaAdministrativo.BLL\bin\Debug\net6.0\SistemaAdministrativo.BLL.dll
+C:\Users\loren\Desktop\Ingeniería de Software\TrabajoFinal\SolucionSistemaAdministrativo\SistemaAdministrativo.BLL\bin\Debug\net6.0\SistemaAdministrativo.BLL.pdb
+C:\Users\loren\Desktop\Ingeniería de Software\TrabajoFinal\SolucionSistemaAdministrativo\SistemaAdministrativo.BLL\obj\Debug\net6.0\SistemaAdministrativo.BLL.csproj.AssemblyReference.cache
+C:\Users\loren\Desktop\Ingeniería de Software\TrabajoFinal\SolucionSistemaAdministrativo\SistemaAdministrativo.BLL\obj\Debug\net6.0\SistemaAdministrativo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loren\Desktop\Ingeniería de Software\TrabajoFinal\SolucionSistemaAdministrativo\SistemaAdministrativo.BLL\obj\Debug\net6.0\SistemaAdministrativo.BLL.AssemblyInfoInputs.cache
+C:\Users\loren\Desktop\Ingeniería de Software\TrabajoFinal\SolucionSistemaAdministrativo\SistemaAdministrativo.BLL\obj\Debug\net6.0\SistemaAdministrativo.BLL.AssemblyInfo.cs
+C:\Users\loren\Desktop\Ingeniería de Software\TrabajoFinal\SolucionSistemaAdministrativo\SistemaAdministrativo.BLL\obj\Debug\net6.0\SistemaAdministrativo.BLL.csproj.CoreCompileInputs.cache
+C:\Users\loren\Desktop\Ingeniería de Software\TrabajoFinal\SolucionSistemaAdministrativo\SistemaAdministrativo.BLL\obj\Debug\net6.0\SistemaAdministrativo.BLL.dll
+C:\Users\loren\Desktop\Ingeniería de Software\TrabajoFinal\SolucionSistemaAdministrativo\SistemaAdministrativo.BLL\obj\Debug\net6.0\refint\SistemaAdministrativo.BLL.dll
+C:\Users\loren\Desktop\Ingeniería de Software\TrabajoFinal\SolucionSistemaAdministrativo\SistemaAdministrativo.BLL\obj\Debug\net6.0\SistemaAdministrativo.BLL.pdb
+C:\Users\loren\Desktop\Ingeniería de Software\TrabajoFinal\SolucionSistemaAdministrativo\SistemaAdministrativo.BLL\obj\Debug\net6.0\ref\SistemaAdministrativo.BLL.dll
+C:\Users\loren\Desktop\Ingeniería de Software\TrabajoFinal\SolucionSistemaAdministrativo\SistemaAdministrativo.BLL\bin\Debug\net6.0\SistemaAdministrativo.DAL.dll
+C:\Users\loren\Desktop\Ingeniería de Software\TrabajoFinal\SolucionSistemaAdministrativo\SistemaAdministrativo.BLL\bin\Debug\net6.0\SistemaAdministrativo.Entity.dll
+C:\Users\loren\Desktop\Ingeniería de Software\TrabajoFinal\SolucionSistemaAdministrativo\SistemaAdministrativo.BLL\bin\Debug\net6.0\SistemaAdministrativo.DAL.pdb
+C:\Users\loren\Desktop\Ingeniería de Software\TrabajoFinal\SolucionSistemaAdministrativo\SistemaAdministrativo.BLL\bin\Debug\net6.0\SistemaAdministrativo.Entity.pdb
+C:\Users\loren\Desktop\Ingeniería de Software\TrabajoFinal\SolucionSistemaAdministrativo\SistemaAdministrativo.BLL\obj\Debug\net6.0\SistemaAdministrativo.BLL.csproj.CopyComplete
+C:\Users\JuanitaMosqueraSanto\Downloads\Sistema-Venta-main\SistemaAdministrativo.BLL\bin\Debug\net6.0\SistemaAdministrativo.BLL.deps.json
+C:\Users\JuanitaMosqueraSanto\Downloads\Sistema-Venta-main\SistemaAdministrativo.BLL\bin\Debug\net6.0\SistemaAdministrativo.BLL.dll
+C:\Users\JuanitaMosqueraSanto\Downloads\Sistema-Venta-main\SistemaAdministrativo.BLL\bin\Debug\net6.0\SistemaAdministrativo.BLL.pdb
+C:\Users\JuanitaMosqueraSanto\Downloads\Sistema-Venta-main\SistemaAdministrativo.BLL\bin\Debug\net6.0\SistemaAdministrativo.DAL.dll
+C:\Users\JuanitaMosqueraSanto\Downloads\Sistema-Venta-main\SistemaAdministrativo.BLL\bin\Debug\net6.0\SistemaAdministrativo.Entity.dll
+C:\Users\JuanitaMosqueraSanto\Downloads\Sistema-Venta-main\SistemaAdministrativo.BLL\bin\Debug\net6.0\SistemaAdministrativo.DAL.pdb
+C:\Users\JuanitaMosqueraSanto\Downloads\Sistema-Venta-main\SistemaAdministrativo.BLL\bin\Debug\net6.0\SistemaAdministrativo.Entity.pdb
+C:\Users\JuanitaMosqueraSanto\Downloads\Sistema-Venta-main\SistemaAdministrativo.BLL\obj\Debug\net6.0\SistemaAdministrativo.BLL.csproj.AssemblyReference.cache
+C:\Users\JuanitaMosqueraSanto\Downloads\Sistema-Venta-main\SistemaAdministrativo.BLL\obj\Debug\net6.0\SistemaAdministrativo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JuanitaMosqueraSanto\Downloads\Sistema-Venta-main\SistemaAdministrativo.BLL\obj\Debug\net6.0\SistemaAdministrativo.BLL.AssemblyInfoInputs.cache
+C:\Users\JuanitaMosqueraSanto\Downloads\Sistema-Venta-main\SistemaAdministrativo.BLL\obj\Debug\net6.0\SistemaAdministrativo.BLL.AssemblyInfo.cs
+C:\Users\JuanitaMosqueraSanto\Downloads\Sistema-Venta-main\SistemaAdministrativo.BLL\obj\Debug\net6.0\SistemaAdministrativo.BLL.csproj.CoreCompileInputs.cache
+C:\Users\JuanitaMosqueraSanto\Downloads\Sistema-Venta-main\SistemaAdministrativo.BLL\obj\Debug\net6.0\SistemaAdministrativo.BLL.csproj.CopyComplete
+C:\Users\JuanitaMosqueraSanto\Downloads\Sistema-Venta-main\SistemaAdministrativo.BLL\obj\Debug\net6.0\SistemaAdministrativo.BLL.dll
+C:\Users\JuanitaMosqueraSanto\Downloads\Sistema-Venta-main\SistemaAdministrativo.BLL\obj\Debug\net6.0\refint\SistemaAdministrativo.BLL.dll
+C:\Users\JuanitaMosqueraSanto\Downloads\Sistema-Venta-main\SistemaAdministrativo.BLL\obj\Debug\net6.0\SistemaAdministrativo.BLL.pdb
+C:\Users\JuanitaMosqueraSanto\Downloads\Sistema-Venta-main\SistemaAdministrativo.BLL\obj\Debug\net6.0\ref\SistemaAdministrativo.BLL.dll
+D:\Nueva carpeta (3)\Sistema-Venta-main\Sistema-Venta-main\SistemaAdministrativo.BLL\bin\Debug\net6.0\SistemaAdministrativo.BLL.deps.json
+D:\Nueva carpeta (3)\Sistema-Venta-main\Sistema-Venta-main\SistemaAdministrativo.BLL\bin\Debug\net6.0\SistemaAdministrativo.BLL.dll
+D:\Nueva carpeta (3)\Sistema-Venta-main\Sistema-Venta-main\SistemaAdministrativo.BLL\bin\Debug\net6.0\SistemaAdministrativo.BLL.pdb
+D:\Nueva carpeta (3)\Sistema-Venta-main\Sistema-Venta-main\SistemaAdministrativo.BLL\bin\Debug\net6.0\SistemaAdministrativo.DAL.dll
+D:\Nueva carpeta (3)\Sistema-Venta-main\Sistema-Venta-main\SistemaAdministrativo.BLL\bin\Debug\net6.0\SistemaAdministrativo.Entity.dll
+D:\Nueva carpeta (3)\Sistema-Venta-main\Sistema-Venta-main\SistemaAdministrativo.BLL\bin\Debug\net6.0\SistemaAdministrativo.DAL.pdb
+D:\Nueva carpeta (3)\Sistema-Venta-main\Sistema-Venta-main\SistemaAdministrativo.BLL\bin\Debug\net6.0\SistemaAdministrativo.Entity.pdb
+D:\Nueva carpeta (3)\Sistema-Venta-main\Sistema-Venta-main\SistemaAdministrativo.BLL\obj\Debug\net6.0\SistemaAdministrativo.BLL.csproj.AssemblyReference.cache
+D:\Nueva carpeta (3)\Sistema-Venta-main\Sistema-Venta-main\SistemaAdministrativo.BLL\obj\Debug\net6.0\SistemaAdministrativo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nueva carpeta (3)\Sistema-Venta-main\Sistema-Venta-main\SistemaAdministrativo.BLL\obj\Debug\net6.0\SistemaAdministrativo.BLL.AssemblyInfoInputs.cache
+D:\Nueva carpeta (3)\Sistema-Venta-main\Sistema-Venta-main\SistemaAdministrativo.BLL\obj\Debug\net6.0\SistemaAdministrativo.BLL.AssemblyInfo.cs
+D:\Nueva carpeta (3)\Sistema-Venta-main\Sistema-Venta-main\SistemaAdministrativo.BLL\obj\Debug\net6.0\SistemaAdministrativo.BLL.csproj.CoreCompileInputs.cache
+D:\Nueva carpeta (3)\Sistema-Venta-main\Sistema-Venta-main\SistemaAdministrativo.BLL\obj\Debug\net6.0\SistemaAdministrativo.BLL.csproj.CopyComplete
+D:\Nueva carpeta (3)\Sistema-Venta-main\Sistema-Venta-main\SistemaAdministrativo.BLL\obj\Debug\net6.0\SistemaAdministrativo.BLL.dll
+D:\Nueva carpeta (3)\Sistema-Venta-main\Sistema-Venta-main\SistemaAdministrativo.BLL\obj\Debug\net6.0\refint\SistemaAdministrativo.BLL.dll
+D:\Nueva carpeta (3)\Sistema-Venta-main\Sistema-Venta-main\SistemaAdministrativo.BLL\obj\Debug\net6.0\SistemaAdministrativo.BLL.pdb
+D:\Nueva carpeta (3)\Sistema-Venta-main\Sistema-Venta-main\SistemaAdministrativo.BLL\obj\Debug\net6.0\ref\SistemaAdministrativo.BLL.dll
+C:\Users\JuanitaMosqueraSanto\Desktop\Sistema-Venta-main\SistemaAdministrativo.BLL\bin\Debug\net6.0\SistemaAdministrativo.BLL.deps.json
+C:\Users\JuanitaMosqueraSanto\Desktop\Sistema-Venta-main\SistemaAdministrativo.BLL\bin\Debug\net6.0\SistemaAdministrativo.BLL.dll
+C:\Users\JuanitaMosqueraSanto\Desktop\Sistema-Venta-main\SistemaAdministrativo.BLL\bin\Debug\net6.0\SistemaAdministrativo.BLL.pdb
+C:\Users\JuanitaMosqueraSanto\Desktop\Sistema-Venta-main\SistemaAdministrativo.BLL\bin\Debug\net6.0\SistemaAdministrativo.DAL.dll
+C:\Users\JuanitaMosqueraSanto\Desktop\Sistema-Venta-main\SistemaAdministrativo.BLL\bin\Debug\net6.0\SistemaAdministrativo.Entity.dll
+C:\Users\JuanitaMosqueraSanto\Desktop\Sistema-Venta-main\SistemaAdministrativo.BLL\bin\Debug\net6.0\SistemaAdministrativo.DAL.pdb
+C:\Users\JuanitaMosqueraSanto\Desktop\Sistema-Venta-main\SistemaAdministrativo.BLL\bin\Debug\net6.0\SistemaAdministrativo.Entity.pdb
+C:\Users\JuanitaMosqueraSanto\Desktop\Sistema-Venta-main\SistemaAdministrativo.BLL\obj\Debug\net6.0\SistemaAdministrativo.BLL.csproj.AssemblyReference.cache
+C:\Users\JuanitaMosqueraSanto\Desktop\Sistema-Venta-main\SistemaAdministrativo.BLL\obj\Debug\net6.0\SistemaAdministrativo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JuanitaMosqueraSanto\Desktop\Sistema-Venta-main\SistemaAdministrativo.BLL\obj\Debug\net6.0\SistemaAdministrativo.BLL.AssemblyInfoInputs.cache
+C:\Users\JuanitaMosqueraSanto\Desktop\Sistema-Venta-main\SistemaAdministrativo.BLL\obj\Debug\net6.0\SistemaAdministrativo.BLL.AssemblyInfo.cs
+C:\Users\JuanitaMosqueraSanto\Desktop\Sistema-Venta-main\SistemaAdministrativo.BLL\obj\Debug\net6.0\SistemaAdministrativo.BLL.csproj.CoreCompileInputs.cache
+C:\Users\JuanitaMosqueraSanto\Desktop\Sistema-Venta-main\SistemaAdministrativo.BLL\obj\Debug\net6.0\SistemaAdministrativo.BLL.csproj.CopyComplete
+C:\Users\JuanitaMosqueraSanto\Desktop\Sistema-Venta-main\SistemaAdministrativo.BLL\obj\Debug\net6.0\SistemaAdministrativo.BLL.dll
+C:\Users\JuanitaMosqueraSanto\Desktop\Sistema-Venta-main\SistemaAdministrativo.BLL\obj\Debug\net6.0\refint\SistemaAdministrativo.BLL.dll
+C:\Users\JuanitaMosqueraSanto\Desktop\Sistema-Venta-main\SistemaAdministrativo.BLL\obj\Debug\net6.0\SistemaAdministrativo.BLL.pdb
+C:\Users\JuanitaMosqueraSanto\Desktop\Sistema-Venta-main\SistemaAdministrativo.BLL\obj\Debug\net6.0\ref\SistemaAdministrativo.BLL.dll
+C:\Users\JuanitaMosqueraSanto\Downloads\JM_Distributor\SistemaAdministrativo.BLL\bin\Debug\net6.0\SistemaAdministrativo.BLL.deps.json
+C:\Users\JuanitaMosqueraSanto\Downloads\JM_Distributor\SistemaAdministrativo.BLL\bin\Debug\net6.0\SistemaAdministrativo.BLL.dll
+C:\Users\JuanitaMosqueraSanto\Downloads\JM_Distributor\SistemaAdministrativo.BLL\bin\Debug\net6.0\SistemaAdministrativo.BLL.pdb
+C:\Users\JuanitaMosqueraSanto\Downloads\JM_Distributor\SistemaAdministrativo.BLL\bin\Debug\net6.0\SistemaAdministrativo.DAL.dll
+C:\Users\JuanitaMosqueraSanto\Downloads\JM_Distributor\SistemaAdministrativo.BLL\bin\Debug\net6.0\SistemaAdministrativo.Entity.dll
+C:\Users\JuanitaMosqueraSanto\Downloads\JM_Distributor\SistemaAdministrativo.BLL\bin\Debug\net6.0\SistemaAdministrativo.DAL.pdb
+C:\Users\JuanitaMosqueraSanto\Downloads\JM_Distributor\SistemaAdministrativo.BLL\bin\Debug\net6.0\SistemaAdministrativo.Entity.pdb
+C:\Users\JuanitaMosqueraSanto\Downloads\JM_Distributor\SistemaAdministrativo.BLL\obj\Debug\net6.0\SistemaAdministrativo.BLL.csproj.AssemblyReference.cache
+C:\Users\JuanitaMosqueraSanto\Downloads\JM_Distributor\SistemaAdministrativo.BLL\obj\Debug\net6.0\SistemaAdministrativo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JuanitaMosqueraSanto\Downloads\JM_Distributor\SistemaAdministrativo.BLL\obj\Debug\net6.0\SistemaAdministrativo.BLL.AssemblyInfoInputs.cache
+C:\Users\JuanitaMosqueraSanto\Downloads\JM_Distributor\SistemaAdministrativo.BLL\obj\Debug\net6.0\SistemaAdministrativo.BLL.AssemblyInfo.cs
+C:\Users\JuanitaMosqueraSanto\Downloads\JM_Distributor\SistemaAdministrativo.BLL\obj\Debug\net6.0\SistemaAdministrativo.BLL.csproj.CoreCompileInputs.cache
+C:\Users\JuanitaMosqueraSanto\Downloads\JM_Distributor\SistemaAdministrativo.BLL\obj\Debug\net6.0\SistemaAdministrativo.BLL.csproj.CopyComplete
+C:\Users\JuanitaMosqueraSanto\Downloads\JM_Distributor\SistemaAdministrativo.BLL\obj\Debug\net6.0\SistemaAdministrativo.BLL.dll
+C:\Users\JuanitaMosqueraSanto\Downloads\JM_Distributor\SistemaAdministrativo.BLL\obj\Debug\net6.0\refint\SistemaAdministrativo.BLL.dll
+C:\Users\JuanitaMosqueraSanto\Downloads\JM_Distributor\SistemaAdministrativo.BLL\obj\Debug\net6.0\SistemaAdministrativo.BLL.pdb
+C:\Users\JuanitaMosqueraSanto\Downloads\JM_Distributor\SistemaAdministrativo.BLL\obj\Debug\net6.0\ref\SistemaAdministrativo.BLL.dll
+D:\Nueva carpeta (3)\JM_Distributor\JM_Distributor\SistemaAdministrativo.BLL\bin\Debug\net6.0\SistemaAdministrativo.BLL.deps.json
+D:\Nueva carpeta (3)\JM_Distributor\JM_Distributor\SistemaAdministrativo.BLL\bin\Debug\net6.0\SistemaAdministrativo.BLL.dll
+D:\Nueva carpeta (3)\JM_Distributor\JM_Distributor\SistemaAdministrativo.BLL\bin\Debug\net6.0\SistemaAdministrativo.BLL.pdb
+D:\Nueva carpeta (3)\JM_Distributor\JM_Distributor\SistemaAdministrativo.BLL\bin\Debug\net6.0\SistemaAdministrativo.DAL.dll
+D:\Nueva carpeta (3)\JM_Distributor\JM_Distributor\SistemaAdministrativo.BLL\bin\Debug\net6.0\SistemaAdministrativo.Entity.dll
+D:\Nueva carpeta (3)\JM_Distributor\JM_Distributor\SistemaAdministrativo.BLL\bin\Debug\net6.0\SistemaAdministrativo.DAL.pdb
+D:\Nueva carpeta (3)\JM_Distributor\JM_Distributor\SistemaAdministrativo.BLL\bin\Debug\net6.0\SistemaAdministrativo.Entity.pdb
+D:\Nueva carpeta (3)\JM_Distributor\JM_Distributor\SistemaAdministrativo.BLL\obj\Debug\net6.0\SistemaAdministrativo.BLL.csproj.AssemblyReference.cache
+D:\Nueva carpeta (3)\JM_Distributor\JM_Distributor\SistemaAdministrativo.BLL\obj\Debug\net6.0\SistemaAdministrativo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nueva carpeta (3)\JM_Distributor\JM_Distributor\SistemaAdministrativo.BLL\obj\Debug\net6.0\SistemaAdministrativo.BLL.AssemblyInfoInputs.cache
+D:\Nueva carpeta (3)\JM_Distributor\JM_Distributor\SistemaAdministrativo.BLL\obj\Debug\net6.0\SistemaAdministrativo.BLL.AssemblyInfo.cs
+D:\Nueva carpeta (3)\JM_Distributor\JM_Distributor\SistemaAdministrativo.BLL\obj\Debug\net6.0\SistemaAdministrativo.BLL.csproj.CoreCompileInputs.cache
+D:\Nueva carpeta (3)\JM_Distributor\JM_Distributor\SistemaAdministrativo.BLL\obj\Debug\net6.0\SistemaAdministrativo.BLL.csproj.CopyComplete
+D:\Nueva carpeta (3)\JM_Distributor\JM_Distributor\SistemaAdministrativo.BLL\obj\Debug\net6.0\SistemaAdministrativo.BLL.dll
+D:\Nueva carpeta (3)\JM_Distributor\JM_Distributor\SistemaAdministrativo.BLL\obj\Debug\net6.0\refint\SistemaAdministrativo.BLL.dll
+D:\Nueva carpeta (3)\JM_Distributor\JM_Distributor\SistemaAdministrativo.BLL\obj\Debug\net6.0\SistemaAdministrativo.BLL.pdb
+D:\Nueva carpeta (3)\JM_Distributor\JM_Distributor\SistemaAdministrativo.BLL\obj\Debug\net6.0\ref\SistemaAdministrativo.BLL.dll
