@@ -19,8 +19,7 @@ Sistema de invetarios para una distribuidora de cervezas, realizada en .net vers
 •Integra Firebase en tu aplicación: Utiliza las API proporcionadas por Firebase para implementar características como la autenticación de usuarios, el almacenamiento de archivos, la mensajería en tiempo real, etc.
 •Prueba tu aplicación: Realiza pruebas exhaustivas para asegurarte de que tu sistema de inventario funcione correctamente y cumpla con los requisitos.
 
-**4. Estructura del proyecto
-   **
+**4. Estructura del proyecto**
 1. Proyecto Web MVC (.NET MVC)
 Este proyecto contendrá la lógica de presentación de la aplicación utilizando el patrón MVC. Aquí es donde se manejarán las solicitudes HTTP, se generará la interfaz de usuario y se enviarán las respuestas al cliente.
 
@@ -37,14 +36,12 @@ Puedes crear un proyecto separado para escribir pruebas unitarias y de integraci
 Puedes considerar tener un proyecto separado para la configuración compartida, recursos compartidos como archivos de configuración, plantillas de correo electrónico, archivos de recursos, etc.
 
 
-**
-5. Estado del proyecto**
+**5. Estado del proyecto**
 Funcionalidades Principales Desarrolladas: Se han desarrollado las funcionalidades principales del sistema, como la gestión de productos, el seguimiento de inventario, el procesamiento de pedidos, la generación de informes.
 
 Desarrollo Continuo de Funcionalidades Adicionales: Se sigue trabajando en el desarrollo de nuevas funcionalidades y mejoras en respuesta a los requisitos del usuario y las necesidades del negocio. Esto puede incluir características como la integración con sistemas de pago, la optimización de la gestión de almacenes, la incorporación de herramientas de análisis predictivo.
 
-**
-6. Contacto**
+**6. Contacto**
 
 Soporte técnico
 miramartinez2501@gmail.com   Maria José Mira - Desarrolladora web
